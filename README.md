@@ -1,1 +1,2 @@
-# C36-Task
+# synchronousBallMovement
+Ball moving synchronously
